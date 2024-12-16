@@ -48,9 +48,14 @@ focus on people with no kids since they spend more and accept more campaigns
 
   Key Value and revenue driving recommendations:
 
- 1. INCREASING PULL FROM CURRENT CUSTOMERS
-    TARGET MIDDLE AGED, HIGH EARNERS WITH NO KIDS. TARGET THEM ON DIFFERENT PLATFORMS WITH CAMPAIGNS MOSTLY GOING TO CATALOG AND THE REST EVENLY SPLIT TO WEB AND STORES
-2. FIND NEW CUSTOMERS
-   CAN ALSO TRY TO TARGET NEW CUSTOMERS TO SPEND MONEY SINCE THE DATA REFERS TO RECURRING CUSTOMERS. CAN FOCUS ON 21-30 AND 70 AND UP SINCE THERE ARE LOWER POPULATIONS COMPARED TO     OTHER SEGMENTS AS THEY ACCEPT CAMPAIGNS AT HIGHER RATES. 
+1.	Increasing pull from current customers
+-	Target middle aged, high earners with no kids
+-	Target them on different platforms with campaigns primarily going to catalogs and split the rest of the campaigns evenly to online and the store
+  
+2.	Find new customers
+-	Can also try to target new customers since data only deals with recurring customers
+-	Focus on ages 21-30 and 70 and up since they are lower populations compared to other segments
+-	These age segments accept campaigns at higher rates
+
 
 
