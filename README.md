@@ -3,6 +3,10 @@
 Project Background:
 UFood Data Analyst Case
 
+The data:
+U_food_Marketing.csv contains 2206 rows, 39 columns
+each row represents a single customer
+
 UFood is the lead food delivery app in Brazil
 
 Project Purpose:
