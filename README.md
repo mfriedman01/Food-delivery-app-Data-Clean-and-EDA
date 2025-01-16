@@ -23,18 +23,18 @@ Key Objectives:
 
 Key Insights
 
-1. Age: 30-70 were spending more money, but less likely to accept more campaigns. They do have higher volume
-  We can focus on this segment to get them to buy more or accept campaigns
+1. Age: 30-70 were spending more money, but less likely to accept more campaigns. That age group has higher volume
+  We can focus on this segment to get them to buy more products or accept more campaigns
 
-2. Catalogs were more likely to accept campgaigns, but in person spend more. Reccomend a split between them all for campagins. 
-push a higher margin for campaigns to catalogs so perhaps --> 40% catalog, 30% web, 30% stores
+2. Catalogs were more likely to accept campgaigns, but spend more in person. I recommend a split between them all for campagins. 
+push a higher margin for campaigns to catalogs so perhaps --> 40% catalog, 30% web, 30% stores.
 
-3. The more kids you have the less campaigns they are accepting and less they are spending
+3. The more kids the consumer has, the less campaigns they are accepting and less they are spending.
 focus on people with no kids since they spend more and accept more campaigns
 
-4. Education has no impact on campaigns or purchases, dont target any segment on groups
+4. Education has no impact on campaigns or purchases, I would not recommend targeting any segment based on their education level.
 
-5. Marital status doesnt play a big part in campaigns accepted since percentages are similar, but Married, Single, and Together spend more money 
+5. Marital status doesnt play a big part in campaigns accepted since percentages are similar, but Married, Single, and Together spend more money overall.
 
   Recommendations:
 
